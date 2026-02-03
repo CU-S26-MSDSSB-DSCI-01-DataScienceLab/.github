@@ -1,12 +1,11 @@
-## 👋 Data Science Lab 2025 @ Constructor University Master "Data Science for Society and Business"
+## 👋 Data Science Lab 2026 @ Constructor University Master "Data Science for Society and Business"
 
 🙋‍♀️ This GitHub organization is the practice area for the Lab. 
 
 It has *public* information on the **Website** including   
-[**Syllabus**](https://cu-s25-msdssb-dsci-01-datasciencelab.github.io/Website/)  
-[**Schedule**](https://cu-s25-msdssb-dsci-01-datasciencelab.github.io/Website/schedule.html)  
-and *private* information on course organization about student projects and scheduling internal student contributions
-[**Course-Organization-Resources**](https://github.com/CU-S25-MSDSSB-DSCI-01-DataScienceLab/Course-Organization-Resources)
+[**Syllabus**](https://cu-s26-msdssb-dsci-01-datasciencelab.github.io/Website/)  
+[**Schedule**](https://cu-s26-msdssb-dsci-01-datasciencelab.github.io/Website/schedule.html)  
+and other course specific information. 
 
 Further on, the organization will provide **personalized repositories** for registered students.   
 Your repos are private and only you, the instructors, and other registered students can see them. 
