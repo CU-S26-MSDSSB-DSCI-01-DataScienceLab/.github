@@ -5,10 +5,12 @@
 It has *public* information on the **Website** including   
 [**Syllabus**](https://cu-s26-msdssb-dsci-01-datasciencelab.github.io/Website/)  
 [**Schedule**](https://cu-s26-msdssb-dsci-01-datasciencelab.github.io/Website/schedule.html)  
-and other course specific information. 
+and other course-specific information. 
 
 Further on, the organization will provide **personalized repositories** for registered students.   
-Your repos are private and only you, the instructors, and other registered students can see them. 
+Your repos are private, and only you, the instructors, and other registered students can see them.
+
+Course communication is in the Teams Team: [**S26-MSDSSB-DSCI-01-DataScienceLab**](https://teams.microsoft.com/l/team/19%3APbRTcnXoogN-dqj4-TIkTnn0h-lZk5YloOB79tEVNck1%40thread.tacv2/conversations?groupId=659f7fc5-9f38-4471-9bfc-05ed89c53e8c&tenantId=f78e973e-5c0b-4ab8-bbd7-9887c95a8ebd)
 
 
 ### Become a member of the organization ⭐
